@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stephen Dogbey\\Desktop\\dcit Assignment 1\\dcit318-assignment1-10978811\\dcit318-assignment1-10978811.csproj",
-      "projectName": "dcit318-assignment1-10978811",
-      "projectPath": "C:\\Users\\Stephen Dogbey\\Desktop\\dcit Assignment 1\\dcit318-assignment1-10978811\\dcit318-assignment1-10978811.csproj",
+      "projectUniqueName": "C:\\Users\\Stephen Dogbey\\Desktop\\dcit Assignment 1\\dcit318-assignment1-10978811\\TicketPriceCalculator\\TicketPriceCalculator.csproj",
+      "projectName": "TicketPriceCalculator",
+      "projectPath": "C:\\Users\\Stephen Dogbey\\Desktop\\dcit Assignment 1\\dcit318-assignment1-10978811\\TicketPriceCalculator\\TicketPriceCalculator.csproj",
       "packagesPath": "C:\\Users\\Stephen Dogbey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stephen Dogbey\\Desktop\\dcit Assignment 1\\dcit318-assignment1-10978811\\obj\\",
+      "outputPath": "C:\\Users\\Stephen Dogbey\\Desktop\\dcit Assignment 1\\dcit318-assignment1-10978811\\TicketPriceCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Stephen Dogbey\\AppData\\Roaming\\NuGet\\NuGet.Config"

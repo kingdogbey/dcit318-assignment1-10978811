@@ -13,3 +13,11 @@ C:\Users\Stephen Dogbey\dcit Assignment 1\dcit318-assignment1-10978811\obj\Debug
 C:\Users\Stephen Dogbey\dcit Assignment 1\dcit318-assignment1-10978811\obj\Debug\net8.0\dcit318-assignment1-10978811.pdb
 C:\Users\Stephen Dogbey\dcit Assignment 1\dcit318-assignment1-10978811\obj\Debug\net8.0\dcit318-assignment1-10978811.genruntimeconfig.cache
 C:\Users\Stephen Dogbey\dcit Assignment 1\dcit318-assignment1-10978811\obj\Debug\net8.0\ref\dcit318-assignment1-10978811.dll
+C:\Users\Stephen Dogbey\Desktop\dcit Assignment 1\dcit318-assignment1-10978811\obj\Debug\net8.0\dcit318-assignment1-10978811.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephen Dogbey\Desktop\dcit Assignment 1\dcit318-assignment1-10978811\obj\Debug\net8.0\dcit318-assignment1-10978811.AssemblyInfoInputs.cache
+C:\Users\Stephen Dogbey\Desktop\dcit Assignment 1\dcit318-assignment1-10978811\obj\Debug\net8.0\dcit318-assignment1-10978811.AssemblyInfo.cs
+C:\Users\Stephen Dogbey\Desktop\dcit Assignment 1\dcit318-assignment1-10978811\obj\Debug\net8.0\dcit318-assignment1-10978811.csproj.CoreCompileInputs.cache
+C:\Users\Stephen Dogbey\Desktop\dcit Assignment 1\dcit318-assignment1-10978811\obj\Debug\net8.0\dcit318-assignment1-10978811.sourcelink.json
+C:\Users\Stephen Dogbey\Desktop\dcit Assignment 1\dcit318-assignment1-10978811\obj\Debug\net8.0\dcit318-assignment1-10978811.dll
+C:\Users\Stephen Dogbey\Desktop\dcit Assignment 1\dcit318-assignment1-10978811\obj\Debug\net8.0\refint\dcit318-assignment1-10978811.dll
+C:\Users\Stephen Dogbey\Desktop\dcit Assignment 1\dcit318-assignment1-10978811\obj\Debug\net8.0\dcit318-assignment1-10978811.pdb
